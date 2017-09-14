@@ -2,12 +2,26 @@ This is a set of "course" notes for an uncredited course run from the UMass Bios
 
 A preliminary list of topics includes: 
 
-* How to give a seminar
-* How to attend a seminar
-* Collaborative behavior
-* Authorship issues
+
+Needed by all
+* How to attend a seminar (asking friendly and/or challenging quesiton)
+* Data science and (or vs.) statistics
 * LaTeX
-* Literature reviews
 * Professional demeanor
-* Building a professional presence
+* Collaborative behavior
+* Literature reviews
+* Career paths
+* Where to look for job openings
+
+Maybe needed more by more advanced students
+* How to write a biostats paper 
+* How to write a "science" paper
+* How to approach your dissertation
+* How to manage your advisor
+* Authorship issues
+* Building a professional presence/maintaining a CV
 * Reviewing papers
+* How to give a seminar (and: responding to unfriendly questions)
+* Journals and conferences
+* Teaching a full-credit course
+* Reviewing papers and responding to peer review
