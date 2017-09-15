@@ -4,7 +4,7 @@ A preliminary list of topics includes:
 
 
 Needed by all
-* How to attend a seminar (asking friendly and/or challenging quesiton)
+* How to attend a seminar (with: asking friendly and/or challenging quesitons)
 * Data science and (or vs.) statistics
 * LaTeX
 * Professional demeanor
