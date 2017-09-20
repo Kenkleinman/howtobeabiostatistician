@@ -4,13 +4,13 @@ A preliminary list of topics includes:
 
 
 Needed by all
-* How to attend a seminar (asking friendly and/or challenging quesiton)
-* Data science and (or vs.) statistics
-* LaTeX
-* Professional demeanor
+* How to attend a seminar (asking friendly and/or challenging question)
+* Data science and (or vs.) statistics  (11/9 with Nick Horton)
+* LaTeX (may be more lecture-like)
+* Professional demeanor (getting people from other generations to hear you)
 * Collaborative behavior
 * Literature reviews
-* Career paths
+* Career paths (Guests to be announced)
 * Where to look for job openings
 
 Maybe needed more by more advanced students
